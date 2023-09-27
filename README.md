@@ -15,6 +15,6 @@ code part in outputscode.ipynb contains parameters for different scenarios.
 
 Running outputscode.ipynb runs maincode.ipynb code file untill all combinations are done and saves output html files in folder.
 
-dayss.csv file contains train dataset
+dayss.csv file contains train dataset (https://drive.google.com/file/d/13_2atu3jJHvrYKtIhYy9E-mElnldaVmW/view?usp=sharing)
 
 nextweekday2.csv file contains test dataset

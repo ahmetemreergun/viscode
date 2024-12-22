@@ -18,3 +18,6 @@ Running outputscode.ipynb runs maincode.ipynb code file untill all combinations 
 dayss.csv file contains train dataset (https://drive.google.com/file/d/13_2atu3jJHvrYKtIhYy9E-mElnldaVmW/view?usp=sharing)
 
 nextweekday2.csv file contains test dataset
+--------------------------------------------------------------
+maincode.ipynb is for the first dataset and maincode2.ipynb is for the second dataset.
+dataset2traintest folder contains second dataset's train and test .csv files.
